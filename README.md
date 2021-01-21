@@ -15,4 +15,3 @@ Course Information for DAT520 Distributed Systems
 - [Go installation guide](setup-go.md)
 - [Code editors](setup-editors.md)
 - [Windows Specific: Guide to Installing Windows Subsystem for Linux (WSL)](setup-wsl.md)
-- [Group partner hunt](group-partner-hunt.md)

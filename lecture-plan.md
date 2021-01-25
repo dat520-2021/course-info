@@ -12,8 +12,8 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 2   | 14.01 | Thu |               | [Golang Tutorial][3]              |               |
 | 3   | 18.01 | Mon | 2.4, 2.5      | [Basic Abstractions][4]           |               |
 | 3   | 21.01 | Thu | 2.6, 2.7      | [Basic Abstractions][5]           | Lab 1 (22.01) |
-| 4   | 25.01 | Mon | 3             | [Reliable Broadcast]              |               |
-| 4   | 25.01 | Mon |               | [gRPC Tutorial]                   |               |
+| 4   | 25.01 | Mon | 3             | [Reliable Broadcast][6]           |               |
+| 4   | 25.01 | Mon |               | [gRPC Tutorial][7]                |               |
 | 4   | 28.01 | Thu | 3             | [Reliable Broadcast]              |               |
 | 5   | 01.02 | Mon | 3             | - No lecture -                    | Lab 2 (01.02) |
 | 5   | 04.02 | Thu |               | Paxos                             |               |
@@ -47,3 +47,5 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 [3]: https://www.youtube.com/watch?v=IDbbXseYaPc&t=3200
 [4]: https://www.youtube.com/watch?v=MqAw0sbwtwE
 [5]: https://www.youtube.com/watch?v=xlKvYU79qfU
+[6]: https://youtu.be/5SzLIBYJSaI&t=1875
+[7]: https://www.youtube.com/watch?v=5SzLIBYJSaI

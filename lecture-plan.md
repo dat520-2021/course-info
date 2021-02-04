@@ -16,7 +16,7 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 4   | 25.01 | Mon |               | [gRPC Tutorial][7]                |               |
 | 4   | 28.01 | Thu | 3             | [Reliable Broadcast][8]           |               |
 | 5   | 01.02 | Mon | 3             | - No lecture -                    | Lab 2 (01.02) |
-| 5   | 04.02 | Thu |               | Paxos                             |               |
+| 5   | 04.02 | Thu |               | Paxos[9]                          |               |
 | 6   | 08.02 | Mon | 5             | [Consensus]                       |               |
 | 6   | 11.02 | Thu | 6             | [Consensus Variants]              |               |
 | 7   | 15.02 | Mon | 6             | [Consensus Variants]              | Lab 3 (15.02) |
@@ -50,3 +50,4 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 [6]: https://youtu.be/5SzLIBYJSaI&t=1875
 [7]: https://www.youtube.com/watch?v=5SzLIBYJSaI
 [8]: https://www.youtube.com/watch?v=UDEVE0XSBSw
+[9]: https://www.youtube.com/watch?v=2J-SZqEizDU

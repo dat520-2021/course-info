@@ -18,8 +18,7 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 5   | 01.02 | Mon | 3             | - No lecture -                    | Lab 2 (01.02) |
 | 5   | 04.02 | Thu |               | [Paxos][9]                        |               |
 | 6   | 08.02 | Mon | 5             | - No lecture -                    |               |
-| 6   | 11.02 | Thu | 5             | [Consensus]                       |               |
-| 6   | 11.02 | Thu | 6             | [Consensus Variants]              |               |
+| 6   | 11.02 | Thu | 5             | [Consensus][10]                   |               |
 | 7   | 15.02 | Mon | 6             | [Consensus Variants]              | Lab 3 (15.02) |
 | 7   | 18.02 | Thu | 4             | [Shared Memory]                   |               |
 | 8   | 22.02 | Mon | 4             | [Shared Memory]                   |               |
@@ -52,3 +51,4 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 [7]: https://www.youtube.com/watch?v=5SzLIBYJSaI
 [8]: https://www.youtube.com/watch?v=UDEVE0XSBSw
 [9]: https://www.youtube.com/watch?v=2J-SZqEizDU
+[10]: https://youtu.be/XrpNt5lJkik

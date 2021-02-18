@@ -17,12 +17,12 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 4   | 28.01 | Thu | 3             | [Reliable Broadcast][8]           |               |
 | 5   | 01.02 | Mon | 3             | - No lecture -                    | Lab 2 (01.02) |
 | 5   | 04.02 | Thu |               | [Paxos][9]                        |               |
-| 6   | 08.02 | Mon | 5             | - No lecture -                    |               |
+| 6   | 08.02 | Mon | 5             |                    |               |
 | 6   | 11.02 | Thu | 5             | [Consensus][10]                   |               |
 | 7   | 15.02 | Mon |               | [Lab 4 Introduction][11]          | Lab 3 (15.02) |
-| 7   | 18.02 | Thu | 6             | [Consensus Variants]              |               |
-| 8   | 22.02 | Mon | 4             | [Shared Memory]                   |               |
-| 8   | 25.02 | Thu |               | [Live coding]                     |               |
+| 7   | 18.02 | Thu | 6             | - No lecture -               |               |
+| 8   | 22.02 | Mon | 6             | [Consensus Variants]                   |               |
+| 8   | 25.02 | Thu | 4              | [Shared Memory]                     |               |
 | 9   | 01.03 | Mon |               | [Consistent Global States]        |               |
 | 9   | 04.03 | Thu |               | [Consistent Global States]        |               |
 | 10  | 08.03 | Man |               | [Chord / Kademlia]                |               |

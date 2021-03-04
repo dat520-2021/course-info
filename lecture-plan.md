@@ -34,7 +34,7 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 13  | 29.03 | Man |               | [Project introduction]            |               |
 | 13  | 01.04 | Thu |               | - No Lecture -                    |               |
 | 14  | 05.04 | Man |               | - No Lecture -                    |               |
-| 14  | 08.04 | Thu |               | Student paper presentations       | Lab 5 (09.05) |
+| 14  | 08.04 | Thu |               | Student paper presentations       | Lab 5 (09.04) |
 | 15  | 12.04 | Mon |               | Student paper presentations       |               |
 | 15  | 15.04 | Thu |               | Student paper presentations       |               |
 | 16  | 19.04 | Mon |               | - No Lecture -                    |               |

@@ -58,4 +58,4 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 [13]: https://youtu.be/vavCKbZ9nxI
 [14]: https://youtu.be/BmyOEpHNfuY
 [15]: https://youtu.be/buU4z_cRhnw
-[16]: syllabus.md#kademlia
+[16]: syllabus.md#kademlia-dht

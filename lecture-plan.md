@@ -17,30 +17,18 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 | 4   | 28.01 | Thu | 3             | [Reliable Broadcast][8]                  |               |
 | 5   | 01.02 | Mon | 3             | - No lecture -                           | Lab 2 (01.02) |
 | 5   | 04.02 | Thu |               | [Paxos][9]                               |               |
-| 6   | 08.02 | Mon | 5             |                                          |               |
 | 6   | 11.02 | Thu | 5             | [Consensus][10]                          |               |
 | 7   | 15.02 | Mon |               | [Lab 4 Introduction][11]                 | Lab 3 (15.02) |
-| 7   | 18.02 | Thu | 6             | - No lecture -                           |               |
 | 8   | 22.02 | Mon | 6             | [Consensus Variants][12]                 |               |
 | 8   | 25.02 | Thu | 4             | [Consensus Variants][13]                 |               |
 | 8   | 25.02 | Thu | 4             | [Consensus Variants & Shared Memory][14] |               |
-| 9   | 01.03 | Mon |               | - No lecture -                           |               |
 | 9   | 04.03 | Thu |               | [Consistent Global States][15]           |               |
-| 10  | 08.03 | Man |               | - No lecture -                           |               |
-| 10  | 11.03 | Thu |               | [Kademlia] [Resources][16]               |               |
-| 11  | 15.03 | Man |               | [Blockchain / Bitcoin]                   | Lab 4 (15.03) |
-| 11  | 18.03 | Thu |               | [Blockchain / Bitcoin]                   |               |
-| 12  | 22.03 | Man |               | [PhD Student presentation]               |               |
-| 12  | 25.03 | Thu |               | - No Lecture -                           |               |
-| 13  | 29.03 | Man |               | [Project introduction]                   |               |
-| 13  | 01.04 | Thu |               | - No Lecture -                           |               |
-| 14  | 05.04 | Man |               | - No Lecture -                           |               |
-| 14  | 08.04 | Thu |               | Student paper presentations              | Lab 5 (09.04) |
-| 15  | 12.04 | Mon |               | Student paper presentations              |               |
-| 15  | 15.04 | Thu |               | Student paper presentations              |               |
-| 16  | 19.04 | Mon |               | - No Lecture -                           |               |
-| 16  | 22.04 | Thu |               | PBFT / Honeybadger                       |               |
-| 18  | 03.05 | Mon |               | - No Lecture -                           | Lab 6 (03.05) |
+| 10  | 11.03 | Thu |               | [Kademlia][17] [Resources][16]           |               |
+| 11  | 15.03 | Man |               | - No Lecture -                           | Lab 4 (15.03) |
+| 12  | 22.03 | Man |               | [Lab 5 Introduction][18]                 |               |
+| 13  | 29.03 | Man |               | [Blockchain & Bitcoin][19]               |               |
+| 14  | 08.04 | Thu |               | - No Lecture -                           | Lab 5 (09.04) |
+| 18  | 03.05 | Mon |               | [Exam start and paper assignment][20]    | Lab 6 (03.05) |
 
 
 [1]: https://www.youtube.com/watch?v=pKFfy_T5e94
@@ -59,3 +47,7 @@ You may also be interested in this [YouTube playlist](https://www.youtube.com/wa
 [14]: https://youtu.be/BmyOEpHNfuY
 [15]: https://youtu.be/buU4z_cRhnw
 [16]: syllabus.md#kademlia-dht
+[17]: https://www.youtube.com/watch?v=putCllUWY8I
+[18]: https://www.youtube.com/watch?v=e2nKXinDvZw
+[19]: https://www.youtube.com/watch?v=vGWp-j9WpLE
+[20]: https://www.youtube.com/watch?v=4NcgvyFbSkA
